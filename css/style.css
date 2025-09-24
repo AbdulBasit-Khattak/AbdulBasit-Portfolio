@@ -421,11 +421,11 @@
 }
 .web-dev {
   
-  background: linear-gradient(rgba(20, 20, 20, 0.8), rgba(24, 24, 24, 0.8)), url("images/web.jpg") no-repeat center center/cover;
+  background: linear-gradient(rgba(20, 20, 20, 0.8), rgba(24, 24, 24, 0.8)), url("images/web.webp") no-repeat center center/cover;
   
 }
 .robotics {
-  background: linear-gradient(rgba(20, 20, 20, 0.8), rgba(24, 24, 24, 0.8)), url("images//robo.jpg") no-repeat center center/cover;
+  background: linear-gradient(rgba(20, 20, 20, 0.8), rgba(24, 24, 24, 0.8)), url("images/robo.jpg") no-repeat center center/cover;
 }
 .graphic-design {
   background: linear-gradient(rgba(20, 20, 20, 0.8), rgba(24, 24, 24, 0.8)), url("images/design.jpg") no-repeat center center/cover;
@@ -585,7 +585,7 @@
   color: white;
   padding: 80px 40px;
   font-family: 'Segoe UI', sans-serif;
-  background: linear-gradient(rgba(26, 37, 56, 0.8), rgba(24, 34, 53, 0.8)), url("images/contact.jpg") no-repeat center center/cover;
+  background: linear-gradient(rgba(26, 37, 56, 0.8), rgba(24, 34, 53, 0.8)), url("images/contact.webp") no-repeat center center/cover;
 
 }
 .contact-section h1 {
@@ -709,7 +709,7 @@
 .fixed-bg-only {
   width: 100%;
   height:40vh; /* full viewport */
-  background: url('images/SEC.jpg') no-repeat center center;
+  background: url('images/SEC.webp') no-repeat center center;
   background-size: cover;
   background-attachment: fixed;
 }
